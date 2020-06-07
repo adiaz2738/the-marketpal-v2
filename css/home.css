@@ -1,0 +1,91 @@
+/* Styling for showcase container and background image */
+#showcase{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    min-height: 450px;
+    border: black 1px solid;
+    margin-bottom: 20px;
+}
+
+.bg-img{
+    position: absolute;
+    background-color: gray;
+    background-image: url("../img/chart-photo.png");opacity: 0.6;
+    background-position-y: 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 90%;
+    height: 450px;
+    z-index: -1;
+}
+
+.showcase-content{
+    display: block;
+    max-width: 600px;
+    padding: 20px 0px;
+    margin: 0 auto;
+}
+
+/* Styling for main container (main-box, top-right, and bottom-right) */
+.main-container{
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: 1fr;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+    background-image: url("../img/stock-chart.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: 50%;
+}
+
+.top-right{
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.bottom-right{
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+@media only screen and (min-width: 800px){
+    /* Desktop styling for main container (main-box, top-right, and bottom-right) */
+.main-container{
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-template-areas:
+    'main-box main-box top-right'
+    'main-box main-box bottom-right';
+}
+
+.main-box{
+    grid-area: main-box;
+    height: 100%;
+}
+
+.top-right{
+    grid-area: top-right;
+}
+
+.bottom-right{
+    grid-area: bottom-right;
+}
+}

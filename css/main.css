@@ -1,0 +1,374 @@
+/* Reset styling */
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+main{
+    min-height: 100%;
+    overflow-y: auto;
+    padding: 20px 0px;
+}
+
+/* Wrapper styling */
+.wrapper{
+    display: block;
+    width: 90%;
+    margin: 0 auto;
+}
+
+/* This file has all of the general css for commonly used text styling, br, hr, buttons, header and footer styling, header logo, links, and images. */
+
+/* Image styling */
+img{
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.img-insert{
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+    box-shadow: 2px 2px 8px black;
+}
+
+/* br and hr stylings */
+br{
+    margin-bottom: 20px;
+}
+
+hr{
+    display: block;
+    border: 0;
+    background-color: black;
+    height: 1px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.hr-short{
+    display: block;
+    border: 0;
+    background-color: black;
+    height: 1px;
+    width: 20%;
+    margin: 0 auto;
+}
+
+.logo-hr{
+    display: block;
+    border: 0;
+    background-color: white;
+    height: 2px;
+    width: 200px;
+    margin: 5px auto 10px auto;
+}
+
+.logo-hr-2{
+    display: block;
+    border: 0;
+    background-color: black;
+    height: 2px;
+    width: 200px;
+    margin: 5px auto 10px auto;
+}
+
+/* Button Stylings */
+.btn-container{
+    display: flex;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.btn{
+    display: inline-block;
+    font-family: "Lato";
+    border: white 1px solid;
+    color: white;
+    font-family: "Lato";
+    padding: 15px 20px;
+    margin: 0 auto;
+}
+
+.btn:hover{
+    background-color: white;
+    color: black;
+}
+
+.btn2{
+    display: inline-block;
+    font-family: "Lato";
+    border: white 1px solid;
+    color: white;
+    background-color: black;
+    padding: 25px 30px;
+    margin: 0 auto;
+}
+
+.btn2:hover{
+    background-color: white;
+    color: black;
+    border: black 1px solid;
+}
+
+.btn3{
+    display: block;
+    font-family: "Georgia";
+    font-size: 20px;
+    color: black;
+    text-decoration: underline;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.btn3:hover{
+    color: gray;
+}
+
+/* Styling for main text contents */
+h1{
+    font-family: "Lato";
+    font-size: 35px;
+    font-weight: 500px;
+    text-align: center;
+    padding: 20px 0px;
+}  
+
+.h1-white{
+    font-family: "Lato";
+    font-size: 35px;
+    font-weight: 500px;
+    text-align: center;
+    padding: 20px 0px;
+    color: white;
+    text-shadow: 2px 2px 8px black;
+}  
+
+p{
+    font-family: "Georgia";
+    font-size: 20px;
+    line-height: 35px;
+    text-align: center;
+}    
+
+.p-white{
+    font-family: "Georgia";
+    font-size: 20px;
+    line-height: 35px;
+    color: white;
+    text-shadow: 2px 2px 8px black;
+    text-align: center;
+}    
+
+.section-heading{
+    font-family: "Lato";
+    font-size: 25px;
+    font-weight: 400;
+    padding: 20px;
+}    
+
+.info-text{
+    font-family: "Lato";
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.main-text{
+    font-family: "Georgia";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 35px;
+}
+
+.writing-text{
+    font-family: "Georgia";
+    font-size: 18px;
+    line-height: 35px;
+}
+
+/* Styling for header and header contents */
+header{
+    display: flex;
+    width: 100%;
+    height: 100px;
+    background-color: black;
+}
+
+/* Styling for social media icons */
+.social-icons{
+    display: flex;
+    align-self: center;
+    padding-left: 50px;
+}
+
+.yt{
+    display: block;
+    color: red;
+    padding-right: 10px;
+}
+
+.ig{
+    display: block;
+    color: white;
+    padding-right: 10px;
+}
+
+.twtr{
+    display: block;
+    color: #00acee;
+}
+
+/* Logo and navigation styling */
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo-nav{
+    display: flex;
+    height: auto;
+    flex-direction: column;
+    padding-top: 10px;
+}
+
+.logo-nav .logo{
+    display: block;
+    width: 200px;
+    margin: 0 auto;
+}
+
+#logo-black{
+    display: none;
+}
+
+.logo-hr-2{
+    display: none;
+}
+
+nav{
+    display: flex;
+    width: 100%;
+    height: 50px;
+}
+
+nav ul{
+    display: flex;
+    /* justify-content: space-around; */
+}
+
+nav ul a{
+    font-family: "Lato";
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+    padding: 10px;
+    flex: auto;
+    text-align: center;
+}
+
+nav ul a:hover{
+    background-color: white;
+    color: black;
+}
+
+/* Styling for support button */
+.support-container{
+    display: flex;
+    align-items: center;
+    padding-right: 50px;
+}
+
+/* Footer content styling */
+footer{
+    display: block;
+    width: 100%;
+    height: 80px;
+    background-color: black;
+}
+
+.copyright-info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    height: 100%;
+}
+
+.copyright-info .info-text{
+    color: white;
+}
+
+/* Media queries for mobile version */
+@media only screen and (max-width: 800px){
+    header{
+        flex-direction: column;
+        height: 320px;
+        background-color: white;
+    }
+
+    .social-icons{
+        display: none;
+    }
+
+    .logo{
+        align-items: center;
+    }
+
+    #logo-white{
+        display: none;
+    }
+
+    #logo-black{
+        display: block;
+    }
+
+    .logo-hr{
+        display: none;
+    }
+
+    .logo-hr-2{
+        display: block;
+    }
+
+    nav{
+        display: block;
+        height: auto;
+        background-color: black;
+    }
+
+    nav ul{
+        flex-direction: column;
+        align-items: center;
+        margin: 0 auto;
+    }
+
+    nav ul a{
+        width: 100%;
+    }
+
+    nav ul a:hover{
+        background-color: white;
+        color: black;
+        text-align: center;
+        width: 100%;
+    }
+
+    .support-container{
+        padding:0;
+        background-color: black;
+    }
+
+    .support-container .btn{
+        border: 0;
+        width: 100%;
+        text-align: center;
+    }
+
+    .support-container .btn:hover{
+        background-color: rgb(226, 226, 226);
+    }
+}

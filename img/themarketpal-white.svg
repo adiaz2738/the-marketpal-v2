@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="509.71927mm"
+   height="60.83363mm"
+   viewBox="0 0 509.71927 60.833629"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="themarketpal-black.svg">
+  <defs
+     id="defs2">
+    <rect
+       x="-2.2678571"
+       y="72.571426"
+       width="331.75189"
+       height="59.286106"
+       id="rect867" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:pagecheckerboard="true"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="971.00388"
+     inkscape:cy="410.63926"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:snap-text-baseline="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(151.07811,-69.756456)">
+    <text
+       xml:space="preserve"
+       id="text865"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:50.8px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Light';white-space:pre;shape-inside:url(#rect867);fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;"
+       transform="matrix(1.5538285,0,0,1.5538285,-148.15912,-56.992233)"><tspan
+         x="-2.2675781"
+         y="119.81626"><tspan
+           style="shape-inside:url(#rect867);fill:#ffffff;fill-opacity:1">The </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1">MarketPal</tspan></tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:export-ydpi="35.156204"
+   inkscape:export-xdpi="35.156204"
+   inkscape:export-filename="C:\Users\antho\Desktop\yt-icon.png"
+   height="384"
+   width="546.13397"
+   sodipodi:docname="yt-icon.svg"
+   id="svg6618"
+   viewBox="0 0 546.13397 384"
+   version="1.1"
+   role="img"
+   focusable="false"
+   data-prefix="fab"
+   data-icon="youtube"
+   aria-hidden="true"
+   class="svg-inline--fa fa-youtube fa-w-18">
+  <defs
+     id="defs6622" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg6618"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="192"
+     inkscape:cx="273.067"
+     inkscape:zoom="1.6601562"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     id="namedview6620"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <metadata
+     id="metadata6612">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path6614"
+     fill="currentColor"
+     d="M 534.722,60.083 C 528.441,36.433 509.935,17.807 486.438,11.486 443.848,0 273.067,0 273.067,0 273.067,0 102.287,0 59.696,11.486 36.199,17.808 17.693,36.433 11.412,60.083 0,102.95 0,192.388 0,192.388 c 0,0 0,89.438 11.412,132.305 6.281,23.65 24.787,41.5 48.284,47.821 C 102.287,384 273.067,384 273.067,384 c 0,0 170.78,0 213.371,-11.486 23.497,-6.321 42.003,-24.171 48.284,-47.821 11.412,-42.867 11.412,-132.305 11.412,-132.305 0,0 0,-89.438 -11.412,-132.305 z M 217.212,273.591 V 111.185 l 142.739,81.205 z" />
+  <path
+     id="path6616"
+     style="paint-order:markers stroke fill"
+     fill="#ff0000"
+     d="m 228.407,383.11 c -88.411,-1.2997 -147.98,-5.291 -168.87,-11.315 -19.151,-5.5214 -34.36,-17.931 -43.039,-35.116 -18.3,-36.237 -21.607,-202.22 -5.4352,-272.81 2.1297,-9.2969 8.3829,-22.368 14.072,-29.414 7.7514,-9.601 20.417,-18.031 32.782,-21.818 24.573,-7.5259 103.03,-11.845 215.15,-11.845 112.27,0 190.55,4.3099 215.15,11.845 23.488,7.1936 41.08,26.439 46.832,51.232 14.346,61.84 13.657,210.19 -1.2157,261.54 -6.4646,22.32 -23.365,39.272 -45.844,45.983 -20.721,6.1864 -79.668,10.386 -159.53,11.367 -19.219,0.23592 -40.39,0.54666 -47.047,0.69053 -6.6574,0.14387 -30.511,-0.009 -53.009,-0.33974 z m 60.837,-149.78 c 38.809,-22.038 70.568,-40.445 70.575,-40.904 0.0106,-0.66291 -138.9,-80.211 -141.88,-81.252 -0.50403,-0.17574 -0.79807,29.761 -0.79807,81.252 0,49.607 0.30243,81.421 0.77239,81.252 0.42481,-0.15304 32.525,-18.31 71.334,-40.348 z" />
+</svg>
