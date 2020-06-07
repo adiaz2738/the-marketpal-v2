@@ -17,8 +17,12 @@
         </div>
         <section class="logo-nav">
             <div class="logo">
-                <img id="logo-white" src="img/themarketpal-white.svg" alt="The MarketPal Logo">
-                <img id="logo-black" src="img/themarketpal-black.svg" alt="The MarketPal Logo">
+                <a href="index.html">
+                    <img id="logo-white" src="img/themarketpal-white.svg" alt="The MarketPal Logo">
+                </a>
+                <a href="index.html">
+                    <img id="logo-black" src="img/themarketpal-black.svg" alt="The MarketPal Logo">
+                </a>
                 <hr class="logo-hr">
                 <hr class="logo-hr-2">
             </div>
@@ -38,7 +42,9 @@
     </header>
 
     <main>
-
+        <div class="wrapper">
+        
+        </div>
     </main>
 
     <footer>

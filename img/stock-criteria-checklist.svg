@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="170.13mm" height="139.39mm" version="1.1" viewBox="0 0 170.13 139.39" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-19.933 -78.806)">
+  <g fill-opacity="0" stroke="#000" stroke-linecap="square" stroke-width=".84633">
+   <rect x="20.63" y="185.64" width="7.369" height="7.0486" style="paint-order:normal"/>
+   <rect x="33.352" y="173.77" width="7.369" height="7.0486" style="paint-order:normal"/>
+   <rect x="33.352" y="161.23" width="7.369" height="7.0486" style="paint-order:normal"/>
+   <rect x="20.63" y="210.72" width="7.369" height="7.0486" style="paint-order:normal"/>
+   <rect x="20.63" y="148.03" width="7.369" height="7.0486" style="paint-order:normal"/>
+   <rect x="20.63" y="110.41" width="7.369" height="7.0486" style="paint-order:normal"/>
+   <rect x="20.63" y="97.875" width="7.369" height="7.0486" style="paint-order:normal"/>
+   <rect transform="scale(1,-1)" x="20.63" y="-205.23" width="7.369" height="7.0486" style="paint-order:normal"/>
+   <rect x="33.352" y="136.15" width="7.369" height="7.0486" style="paint-order:normal"/>
+   <rect x="33.352" y="123.61" width="7.369" height="7.0486" style="paint-order:normal"/>
+  </g>
+  <g fill="#000000">
+   <text x="19.240652" y="86.847191" font-family="sans-serif" font-size="10.583px" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan x="19.240652" y="86.847191" stroke-width=".26458">Stock Analysis Criteria Chceklist</tspan></text>
+   <text x="32.430035" y="104.48428" font-family="Lato" font-size="7.0556px" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan x="32.430035" y="104.48428" font-family="Lato" font-size="7.0556px" stroke-width=".26458">Business Model</tspan></text>
+   <g font-family="sans-serif">
+    <g font-size="7.0556px" stroke-width=".26458">
+     <text x="32.384155" y="116.57952" style="line-height:1.25" xml:space="preserve"><tspan x="32.384155" y="116.57952" font-size="7.0556px" stroke-width=".26458">Income Statement</tspan></text>
+     <text x="45.078785" y="129.80869" style="line-height:1.25" xml:space="preserve"><tspan x="45.078785" y="129.80869" font-size="7.0556px" stroke-width=".26458">Profitability</tspan></text>
+     <text x="45.456764" y="142.65247" style="line-height:1.25" xml:space="preserve"><tspan x="45.456764" y="142.65247" font-size="7.0556px" stroke-width=".26458">Leverage</tspan></text>
+     <text x="32.227596" y="154.76251" style="line-height:1.25" xml:space="preserve"><tspan x="32.227596" y="154.76251" font-size="7.0556px" stroke-width=".26458">Balance Sheet</tspan></text>
+     <text x="43.566875" y="166.85034" style="line-height:1.25" xml:space="preserve"><tspan x="43.566875" y="166.85034" font-size="7.0556px" stroke-width=".26458">Efficiency</tspan></text>
+     <text x="43.52103" y="180.01749" style="line-height:1.25" xml:space="preserve"><tspan x="43.52103" y="180.01749" font-size="7.0556px" stroke-width=".26458">Productivity</tspan></text>
+     <text x="32.605572" y="191.85881" style="line-height:1.25" xml:space="preserve"><tspan x="32.605572" y="191.85881" font-size="7.0556px" stroke-width=".26458">Management Team</tspan></text>
+     <text x="32.781132" y="203.84616" style="line-height:1.25" xml:space="preserve"><tspan x="32.781132" y="203.84616" font-size="7.0556px" stroke-width=".26458">Risk Factors</tspan></text>
+     <text x="33.204964" y="216.9836" style="line-height:1.25" xml:space="preserve"><tspan x="33.204964" y="216.9836" font-size="7.0556px" stroke-width=".26458">Valuation</tspan></text>
+    </g>
+    <text x="85.422623" y="207.8869" font-size="10.583px" stroke-width=".26458" style="line-height:1.25" xml:space="preserve"><tspan x="85.422623" y="207.8869" stroke-width=".26458"/></text>
+    <text font-size="10.583px" style="line-height:1.25;shape-inside:url(#rect1022);white-space:pre" xml:space="preserve"/>
+   </g>
+  </g>
+ </g>
+</svg>

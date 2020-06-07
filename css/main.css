@@ -6,6 +6,10 @@
     text-decoration: none;
 }
 
+html, body{
+    height: 100%;
+}
+
 main{
     min-height: 100%;
     overflow-y: auto;
@@ -16,7 +20,30 @@ main{
 .wrapper{
     display: block;
     width: 90%;
+    min-height: 100%;
     margin: 0 auto;
+}
+
+/* Basic containers styling */
+.basic-container{
+    display: block;
+    max-width: 800px;
+    height: auto;
+    margin: 0 auto;
+    padding: 20px 0px;
+}
+
+.basic-container-np{
+    display: block;
+    max-width: 800px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.basic-img-container{
+    display: block;
+    max-width: 350px;
+    max-height: 400px; 
 }
 
 /* This file has all of the general css for commonly used text styling, br, hr, buttons, header and footer styling, header logo, links, and images. */
@@ -33,6 +60,12 @@ img{
     width: 100%;
     margin: 0 auto;
     box-shadow: 2px 2px 8px black;
+}
+
+.img-insert-2{
+    display: block;
+    height: 350px;
+    padding: 20px 0px;
 }
 
 /* br and hr stylings */
@@ -151,8 +184,15 @@ p{
     font-family: "Georgia";
     font-size: 20px;
     line-height: 35px;
-    text-align: center;
 }    
+
+.main-text-center{
+    font-family: "Georgia";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 35px;
+    text-align: center;
+}
 
 .p-white{
     font-family: "Georgia";
@@ -168,6 +208,8 @@ p{
     font-size: 25px;
     font-weight: 400;
     padding: 20px;
+    text-align: center;
+    text-transform: uppercase;
 }    
 
 .info-text{
@@ -175,13 +217,6 @@ p{
     font-size: 15px;
     font-weight: 400;
     text-align: center;
-}
-
-.main-text{
-    font-family: "Georgia";
-    font-size: 20px;
-    font-weight: 400;
-    line-height: 35px;
 }
 
 .writing-text{
