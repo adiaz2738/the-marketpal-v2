@@ -4,6 +4,7 @@ caption{
     font-size: 25px;
     font-weight: 400;
     text-align: center;
+    text-transform: uppercase;
     padding-bottom: 10px;
 }
 
@@ -49,6 +50,11 @@ td{
 
 .status-s{
     background-color: rgba(121, 0, 0, 0.4);
+}
+
+/* Container styling */
+.basic-container{
+    overflow: auto;
 }
 
 /* Styling for watchlist containers */
