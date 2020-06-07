@@ -1,0 +1,60 @@
+/* Caption for table styling */
+caption{
+    font-family: "Lato";
+    font-size: 25px;
+    font-weight: 400;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+/* General styles for table and components */
+table{
+    width: auto;
+    margin: 0 auto;
+}
+
+table, th, td{
+    border: black 1px solid;
+    border-collapse: collapse;
+}
+
+thead{
+    background-color: rgba(161, 161, 161, 0.603);
+}
+
+/* Specific styles for table components */
+th{
+    font-family: "Lato";
+    font-size: 25px;
+    font-weight: 400;
+    padding: 10px;
+}
+
+td{
+    text-align: center;
+    font-family: "Georgia";
+    font-size: 20px;
+    padding: 15px;
+    background-color: #e3e3e3;
+}
+
+/* Status background-color styling */
+.status-o{
+    background-color: rgba(0, 80, 0, 0.4);
+}
+
+.status-n-o{
+    background-color: rgba(182, 182, 0, 0.4);
+}
+
+.status-s{
+    background-color: rgba(121, 0, 0, 0.4);
+}
+
+/* Styling for watchlist containers */
+.watchlist-containers{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+}
