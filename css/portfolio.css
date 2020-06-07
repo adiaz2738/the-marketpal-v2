@@ -52,9 +52,14 @@ td{
     background-color: rgba(121, 0, 0, 0.4);
 }
 
+/* body styling to eliminate small overflow on x axis */
+body{
+    overflow-x: hidden;
+}
+
 /* Container styling */
 .basic-container{
-    overflow: auto;
+    overflow-x: auto;
 }
 
 /* Styling for watchlist containers */

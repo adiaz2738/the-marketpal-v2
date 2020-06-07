@@ -22,7 +22,6 @@ main{
     width: 90%;
     min-height: 100%;
     margin: 0 auto;
-    overflow-y: hidden;
 }
 
 /* Basic containers styling */
