@@ -1,3 +1,5 @@
+/* This file has all of the general css for commonly used text styling, br, hr, buttons, header and footer styling, header logo, links, and images. */
+
 /* Reset styling */
 *{
     margin: 0;
@@ -33,8 +35,10 @@ main{
     padding: 20px 0px;
 }
 
-.basic-container-np{
-    display: block;
+.basic-container-cnt-txt{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     max-width: 800px;
     height: auto;
     margin: 0 auto;
@@ -46,26 +50,11 @@ main{
     max-height: 400px; 
 }
 
-/* This file has all of the general css for commonly used text styling, br, hr, buttons, header and footer styling, header logo, links, and images. */
-
 /* Image styling */
 img{
     display: block;
     width: 100%;
     margin: 0 auto;
-}
-
-.img-insert{
-    display: block;
-    width: 100%;
-    margin: 0 auto;
-    box-shadow: 2px 2px 8px black;
-}
-
-.img-insert-2{
-    display: block;
-    height: 350px;
-    padding: 20px 0px;
 }
 
 /* br and hr stylings */
@@ -79,7 +68,7 @@ hr{
     background-color: black;
     height: 1px;
     width: 90%;
-    margin: 0 auto;
+    margin: 20px auto;
 }
 
 .hr-short{
@@ -87,8 +76,8 @@ hr{
     border: 0;
     background-color: black;
     height: 1px;
-    width: 20%;
-    margin: 0 auto;
+    width: 200px;
+    margin: 40px auto;
 }
 
 .logo-hr{
@@ -161,7 +150,7 @@ hr{
     color: gray;
 }
 
-/* Styling for main text contents */
+/* Styling for general text contents */
 h1{
     font-family: "Lato";
     font-size: 35px;
@@ -170,38 +159,19 @@ h1{
     padding: 20px 0px;
 }  
 
-.h1-white{
-    font-family: "Lato";
-    font-size: 35px;
-    font-weight: 500px;
-    text-align: center;
-    padding: 20px 0px;
-    color: white;
-    text-shadow: 2px 2px 8px black;
-}  
-
 p{
     font-family: "Georgia";
     font-size: 20px;
     line-height: 35px;
 }    
 
-.main-text-center{
-    font-family: "Georgia";
-    font-size: 20px;
+.title-text-center{
+    font-family: "Lato";
+    font-size: 24px;
     font-weight: 400;
     line-height: 35px;
     text-align: center;
-}
-
-.p-white{
-    font-family: "Georgia";
-    font-size: 20px;
-    line-height: 35px;
-    color: white;
-    text-shadow: 2px 2px 8px black;
-    text-align: center;
-}    
+} 
 
 .section-heading{
     font-family: "Lato";
@@ -210,19 +180,35 @@ p{
     padding: 20px;
     text-align: center;
     text-transform: uppercase;
-}    
+}
 
+.lrg-txt{
+    font-family: "Georgia";
+    font-size: 40px;
+    padding-bottom: 15px;
+    text-align: center;
+}
+
+.detail-text{
+    font-family: "Georgia";
+    font-size: 16px;
+    text-align: center;
+}
+
+/* Footer copyright text styling */
 .info-text{
     font-family: "Lato";
-    font-size: 15px;
+    font-size: 16px;
     font-weight: 400;
     text-align: center;
 }
 
-.writing-text{
+/* Main uses: Dates for research paper page and blog page */
+.detail-text-itl{
     font-family: "Georgia";
-    font-size: 18px;
-    line-height: 35px;
+    font-size: 14px;
+    font-style: italic;
+    text-align: center;
 }
 
 /* Styling for header and header contents */

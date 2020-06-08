@@ -1,0 +1,45 @@
+/* Wrapper styling */
+.blog-wrapper{
+    display: block;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+/* Img styling */
+.img-insert{
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+    box-shadow: 2px 2px 8px black;
+}
+
+.title-img-ins{
+    display: block;
+    width: 200px;
+    height: 150px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+/* Text styling */
+.writing-text{
+    font-family: "Georgia";
+    font-size: 18px;
+    line-height: 35px;
+}
+
+.basic-container-cnt-txt p, .detail-text-itl, .title-text-center, .detail-text-itl{
+    padding-bottom: 15px;
+    line-height: normal;
+}
+
+/* btn styling adjustments */
+.btn{
+    color: black;
+    border: black 1px solid;
+}
+
+.btn:hover{
+    background-color: rgb(185, 185, 185);
+    color: white;
+}

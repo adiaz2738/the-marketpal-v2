@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="108.57mm" height="137.61mm" version="1.1" viewBox="0 0 108.57 137.61" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-7.9749 -96.891)">
+  <rect x="38.818" y="105.52" width="10.052" height="39.385" fill="#de0000" stroke="#000" stroke-dasharray="0.541613, 0.541613" stroke-linecap="square" stroke-width=".54161" style="paint-order:markers stroke fill"/>
+  <rect x="43.692" y="96.891" width=".30462" height="8.6324" style="paint-order:markers stroke fill"/>
+  <rect x="43.692" y="145.18" width=".30462" height="8.6324" style="paint-order:markers stroke fill"/>
+  <rect x="56.472" y="133.48" width="10.052" height="21.728" fill="#de0000" stroke="#000" stroke-dasharray="0.402279, 0.402279" stroke-linecap="square" stroke-width=".40228" style="paint-order:markers stroke fill"/>
+  <rect x="61.346" y="128.72" width=".30462" height="4.7622" style="paint-order:markers stroke fill"/>
+  <rect x="61.346" y="155.38" width=".30462" height="13.617" style="paint-order:markers stroke fill"/>
+  <rect x="106.36" y="201.4" width="10.052" height="9.39" fill="#de0000" stroke="#000" stroke-dasharray="0.264456, 0.264456" stroke-linecap="square" stroke-width=".26446" style="paint-order:markers stroke fill"/>
+  <rect x="111.24" y="194.98" width=".30462" height="6.4167" style="paint-order:markers stroke fill"/>
+  <rect x="111.24" y="210.97" width=".30462" height="23.532" style="paint-order:markers stroke fill"/>
+  <rect transform="scale(-1,1)" x="-33.149" y="113.6" width="10.052" height="5.6145" fill="#00c000" stroke="#000" stroke-dasharray="0.204491, 0.204491" stroke-linecap="square" stroke-width=".20449" style="paint-order:markers stroke fill"/>
+  <rect transform="scale(-1,1)" x="-28.275" y="109.24" width=".30462" height="4.362" style="paint-order:markers stroke fill"/>
+  <rect transform="scale(-1,1)" x="-28.275" y="119.26" width=".30462" height="5.4003" style="paint-order:markers stroke fill"/>
+  <rect transform="scale(-1,1)" x="-18.109" y="124.82" width="9.9846" height="12.13" fill="#00c000" stroke="#000" stroke-dasharray="0.299553, 0.299553" stroke-linecap="square" stroke-width=".29955" style="paint-order:markers stroke fill"/>
+  <rect transform="scale(-1,1)" x="-13.269" y="120.39" width=".30462" height="4.362" style="paint-order:markers stroke fill"/>
+  <rect transform="scale(-1,1)" x="-13.268" y="137.05" width=".30256" height="11.667" style="paint-order:markers stroke fill"/>
+  <rect x="71.4" y="169.09" width="10.052" height="5.5472" fill="#de0000" stroke="#000" stroke-dasharray="0.203263, 0.203263" stroke-linecap="square" stroke-width=".20326" style="paint-order:markers stroke fill"/>
+  <rect x="76.274" y="156.2" width=".30462" height="12.897" style="paint-order:markers stroke fill"/>
+  <rect x="76.274" y="174.69" width=".30462" height="1.2092" style="paint-order:markers stroke fill"/>
+  <rect x="88.375" y="162.01" width="10.052" height="39.385" fill="#de0000" stroke="#000" stroke-dasharray="0.541613, 0.541613" stroke-linecap="square" stroke-width=".54161" style="paint-order:markers stroke fill"/>
+  <rect x="93.249" y="153.38" width=".30462" height="8.6324" style="paint-order:markers stroke fill"/>
+  <rect x="93.249" y="201.67" width=".30462" height="8.6324" style="paint-order:markers stroke fill"/>
+ </g>
+</svg>

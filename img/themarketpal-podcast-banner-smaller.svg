@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8.3363in" height="2.6714in" version="1.1" viewBox="0 0 211.74 67.853" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1468" x1="44.972" x2="146.41" y1="17.873" y2="17.873" gradientTransform="matrix(.62159 0 0 .60336 72.387 -17.54)" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-84.629 -29.554)">
+  <rect x="84.938" y="43.043" width="211.12" height="40.915" stroke-opacity="0"/>
+  <rect transform="matrix(.84625 .53278 0 1 0 0)" x="100.63" y="-23.547" width="62.471" height="33.582" fill="#fff" stroke="url(#linearGradient1468)" stroke-dasharray="0.669827, 0.669827" stroke-linecap="square" stroke-width=".66983" style="paint-order:markers stroke fill"/>
+ </g>
+ <g transform="translate(-113.36 -74.808)" style="mix-blend-mode:normal">
+  <text transform="matrix(1.4198 0 0 1.8259 125.21 20.946)" x="28.726189" y="53.294643" fill="#ffffff" font-family="sans-serif" font-size="13.533px" stroke-width=".26458" style="inline-size:120.889;line-height:1.25;white-space:pre" xml:space="preserve"><tspan x="28.726189" y="53.294643"><tspan fill="#ffffff" font-family="Lato" font-size="13.533px" stroke-width=".26458">MarketPal Podcast</tspan></tspan></text>
+  <text transform="scale(1.0898 .91764)" x="108.03735" y="124.08425" font-family="GeosansLight" font-size="28.755px" stroke-width=".14977" style="line-height:1.25" xml:space="preserve"><tspan x="108.03735" y="124.08425" font-size="28.755px" stroke-width=".14977">The</tspan></text>
+ </g>
+</svg>

@@ -1,3 +1,23 @@
+/* Text styling */
+.h1-white{
+    font-family: "Lato";
+    font-size: 35px;
+    font-weight: 500px;
+    text-align: center;
+    padding: 20px 0px;
+    color: white;
+    text-shadow: 2px 2px 8px black;
+}  
+
+.p-white{
+    font-family: "Georgia";
+    font-size: 20px;
+    line-height: 35px;
+    color: white;
+    text-shadow: 2px 2px 8px black;
+    text-align: center;
+}
+
 /* Styling for showcase container and background image */
 #showcase{
     display: flex;

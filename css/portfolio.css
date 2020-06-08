@@ -67,11 +67,12 @@ body{
     display: flex;
     width: 100%;
     flex-direction: row;
-    justify-content: space-between;
 }
 
-@media only screen and (max-width: 800px){
-    .watchlist-containers{
-        justify-content: center;
-    }
+.long-term{
+    padding-right: 5px;
+}
+
+.short-term{
+    padding-left: 5px;
 }
