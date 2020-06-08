@@ -12,7 +12,7 @@
     <header>
         <div class="social-icons">
             <a class="yt" href="https://www.youtube.com/channel/UCYwnLf_Unhw_YWtCS8CZBLw?guided_help_flow=3&disable_polymer=true" title="Subscribe on YouTube" target="_blank"><i class="fab fa-youtube fa-2x"></i></a>
-            <a class="ig" href="https://www.instagram.com/themarketpal/" title="Follow the Instagram"><i class="fab fa-instagram fa-2x"></i></a>
+            <a class="ig" href="https://www.instagram.com/themarketpal/" title="Follow the Instagram" target="_blank"><i class="fab fa-instagram fa-2x"></i></a>
             <a class="twtr" href="https://twitter.com/themarketpal" title="Follow on Twitter" target="_blank"><i class="fab fa-twitter fa-2x"></i></a>
         </div>
         <section class="logo-nav">
