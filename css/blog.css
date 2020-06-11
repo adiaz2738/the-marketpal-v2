@@ -6,13 +6,6 @@
 }
 
 /* Img styling */
-.img-insert{
-    display: block;
-    width: 100%;
-    margin: 0 auto;
-    box-shadow: 2px 2px 8px black;
-}
-
 .title-img-ins{
     display: block;
     width: 200px;
@@ -24,7 +17,7 @@
 /* Text styling */
 .writing-text{
     font-family: "Georgia";
-    font-size: 18px;
+    font-size: 16px;
     line-height: 35px;
 }
 
@@ -33,13 +26,39 @@
     line-height: normal;
 }
 
-/* btn styling adjustments */
-.btn{
-    color: black;
-    border: black 1px solid;
+.link{
+    color: rgb(0, 119, 255);
 }
 
-.btn:hover{
+.blog-wrapper .section-heading{
+    font-size: 20px;
+}
+
+/* btn styling adjustments. Commented out for now because there is no need for it. */
+/* .blog-btn{
+    display: inline-block;
+    font-family: "Lato";
+    color: black;
+    border: black 1px solid;
+    font-family: "Lato";
+    padding: 15px 20px;
+    margin: 0 auto;
+} */
+
+.blog-btn:hover{
     background-color: rgb(185, 185, 185);
     color: white;
+}
+
+#resources a{
+    font-family: "Georgia";
+    font-size: 18px;
+    color: rgb(0, 119, 255);
+}
+
+/* iframes styling for embedded video clips */
+iframe{
+    display: block;
+    padding: 10px;
+    box-shadow: 2px 2px 5px black;
 }

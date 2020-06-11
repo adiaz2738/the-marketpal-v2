@@ -1,0 +1,59 @@
+/* General page text styling */
+.section-heading{
+    color: black;
+}
+
+.writing-text{
+    font-size: 18px;
+    color: black;
+}
+
+/* Styling for main containers */
+.main-event .basic-container{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border: black 2px solid;
+    padding: 20px;
+}
+
+.additional-events{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 40px 0px 20px 0px;
+}
+
+.left-event{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border: black 1px solid;
+    width: 750px;
+    height: auto;
+    padding: 20px;
+}
+
+.right-event{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border: black 1px solid;
+    width: 750px;
+    height: auto;
+    padding: 20px;
+}
+
+/* Specific container styling */
+    .img-insert{
+        margin: 20px 0px;
+    }
+
+@media only screen and (max-width: 800px){
+    .additional-events{
+        flex-direction: column;
+    }
+
+    .left-event, .right-event{
+        width: auto;
+    }
+}

@@ -1,0 +1,47 @@
+/* Text styling */
+a{
+    color: black;
+}
+
+/* General table styling */
+table{
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+}
+
+table, th, td{
+    border: black 1px solid;
+    border-collapse: collapse;
+}
+
+/* Specific container table cell styling */
+th{
+    font-family: "Lato";
+    font-size: 25px;
+    font-weight: 400;
+    padding: 10px;
+}
+
+.desc-cell{
+    vertical-align: top;
+    max-width: 500px;
+    text-align: center;
+    font-family: "Georgia";
+    font-size: 16px;
+    padding: 10px;
+    background-color: #e3e3e3;
+}
+
+.img-cell{
+    max-width: 200px;
+    height: auto;
+}
+
+
+@media only screen and (max-width: 600px){
+
+    .img-cell{
+        display: none;
+    }
+}
