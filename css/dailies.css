@@ -43,6 +43,19 @@
     padding: 20px;
 }
 
+.resources-container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.resources-container a{
+    font-family: "Georgia";
+    font-size: 20px;
+    color: rgb(6, 121, 252);
+    padding: 10px 0px;
+}
+
 /* Specific container styling */
     .img-insert{
         margin: 20px 0px;
