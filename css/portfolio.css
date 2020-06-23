@@ -62,17 +62,11 @@ body{
     overflow-x: auto;
 }
 
-/* Styling for watchlist containers */
-.watchlist-containers{
-    display: flex;
+.watchlist-container{
+    display: block;
     width: 100%;
-    flex-direction: row;
 }
 
-.long-term{
-    padding-right: 5px;
-}
-
-.short-term{
-    padding-left: 5px;
+.watchlist-container table{
+    width: 100%;
 }
