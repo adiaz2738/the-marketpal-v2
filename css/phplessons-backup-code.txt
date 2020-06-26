@@ -1,0 +1,9 @@
+create table posts (
+	id int(11) not null PRIMARY KEY AUTO_INCREMENT,
+    subject varchar(128) not null,
+    content varchar(1000) not null,
+    date datetime not null
+);
+
+SELECT * FROM `posts` WHERE 1
+insert into posts (subject, content, date) VALUES ('This is the subject', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris luctus facilisis neque, ultrices sollicitudin leo. Maecenas mauris elit, molestie in ipsum sed, sollicitudin vestibulum ipsum. Nam non vehicula felis. Pellentesque venenatis nisi quis dictum consectetur. In a tellus non velit pharetra tristique in vitae justo. Ut at dapibus augue. Fusce a nunc tincidunt, ullamcorper sem vel, lacinia eros. Cras ornare tortor eget ex elementum, nec venenatis est porttitor. Quisque mattis lectus quis dui porta placerat. ', '2020-24-6 14:40:01');

@@ -20,6 +20,13 @@
 }
 
 /* Img styling */
+.inline-img-container{
+    display: flex;
+    width: auto;
+    height: auto;
+    padding: 20px;
+}
+
 .title-img-ins{
     display: block;
     width: 200px;
@@ -38,7 +45,7 @@
     margin-bottom: -400px;
 }
 
-.blog-heading{
+/* .blog-heading{
     display: flex;
     background: #000 url("../blog-posts/b-img/newspapers-img.jpg");
     background-size: cover;
@@ -48,7 +55,7 @@
     align-items: center;
     position: relative;
     margin-bottom: 40px;
-}
+} */
 
 .color-overlay{
     width: 100%;
@@ -115,4 +122,15 @@ iframe{
     display: block;
     padding: 10px;
     box-shadow: 2px 2px 5px black;
+}
+
+@media only screen and (min-width: 800px){
+    /* Img styling */
+    .inline-img-container{
+        display: flex;
+        width: 250px;
+        height: 200px;
+        padding: 20px;
+        float: right;
+    }
 }
