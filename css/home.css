@@ -54,6 +54,7 @@
     background-color: rgba(0, 0, 0, 1.0);
 }
 
+/* Showcase styling */
 .showcase-content{
     display: block;
     max-width: 1000px;
@@ -123,12 +124,12 @@
     .bg-img{
         position: absolute;
         background-color: black;
-        background-image: url("../blog-posts/b-img/newspapers-img.jpg");
+        background: #000 url("../blog-posts/b-img/oxford-form-10k.JPG");
         background-position-y: 25%;
         background-size: cover;
         background-repeat: no-repeat;
         width: 90%;
-        height: 515px;
+        height: 450px;
         z-index: -1;
     }
 
