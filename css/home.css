@@ -124,8 +124,9 @@
     .bg-img{
         position: absolute;
         background-color: black;
-        background: #000 url("../blog-posts/b-img/oxford-form-10k.JPG");
-        background-position-y: 25%;
+        background: #000 url("../blog-posts/b-img/google-business-model-img.JPG");
+        /* Background position could be changed depending on the picture */
+        background-position-y: 50%;
         background-size: cover;
         background-repeat: no-repeat;
         width: 90%;

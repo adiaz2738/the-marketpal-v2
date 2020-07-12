@@ -8,6 +8,21 @@
     <link rel="stylesheet" href="../css/main.css">
     <link rel="stylesheet" href="../css/blog.css">
     <script src="https://kit.fontawesome.com/0c2674f1e9.js" crossorigin="anonymous"></script>
+
+    <!-- Specific page styling -->
+    <style>
+        .blog-heading{
+            display: flex;
+            background: #000 url("b-img/oxford-form-10k.JPG");
+            background-size: cover;
+            width: 100%;
+            height: 250px;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+            margin-bottom: 40px;
+        }
+    </style>
 </head>
 <body>
     <header>
@@ -38,16 +53,21 @@
             </nav>
         </section>
         <div class="support-container">
-            <a class="btn" href="../support.html">Support</a>
+            <a class="btn" href="../newsletter.html">Newsletter</a>
         </div>
     </header>
 
     <main>
         <div class="wrapper">
-            <div class="blog-wrapper">
-                <h1></h1>
-                <p class="detail-text-itl"></p>
-                <p class="detail-text-itl">Author: Anthony Diaz</p>
+            <div class="blog-wrapper-container">
+                <div class="blog-heading">
+                    <div class="color-overlay"></div>
+                    <div class="heading-txt">
+                        <h1 class="white-title">The Importance of Reading Annual Reports</h1>
+                        <p class="detail-text-itl">6/26/2020</p>
+                        <p class="detail-text-itl">Author: Anthony Diaz</p>
+                    </div>
+                </div>
                 <div id="resources">
                     <h2 class="section-heading">Resources</h2>
                 </div>
