@@ -1,6 +1,6 @@
 /* Text Shadow Styling */
 :root{
-    --shadow-black: 1px 5px 8px rgba(0, 0, 0, 0.8);
+    --shadow-black: 5px -2px 8px rgba(0, 0, 0, 0.8);
     --shadow-white: 3px 3px 10px rgba(255, 255, 255, 0.8);
 }
 
@@ -124,7 +124,8 @@
     .bg-img{
         position: absolute;
         background-color: black;
-        background: #000 url("../blog-posts/b-img/stress-upset-image.jpg");
+        background: #000 url("../blog-posts/b-img/tesla-berlin-factory-finished-image.PNG");
+        opacity: .8;
         /* Background position could be changed depending on the picture */
         background-position-y: 70%;
         background-size: cover;
